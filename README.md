@@ -1,4 +1,4 @@
-# Bitcoin-Price-Predictor
+# Bitcoin Price Predictor
 
 A real-time Bitcoin price tracking and short-term prediction dashboard using live market data.
 
